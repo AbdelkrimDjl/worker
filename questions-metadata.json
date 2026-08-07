@@ -182,13 +182,6 @@
             "unit": "Appareil Cardio-Respiratoire",
             "modules": [
                 {
-                    "module": "",
-                    "courses": {
-                        "Échanges Alvéolocapillaires": 1
-                    },
-                    "module_total": 1
-                },
-                {
                     "module": "Anatomie",
                     "courses": {
                         "Larynx": 16,
@@ -243,11 +236,11 @@
                         "Régulation de la Respiration": 10,
                         "Électrophysiologie Cardiaque": 17,
                         "Transport des Gaz dans le Sang": 11,
-                        "Les Échanges Alvéolocapillaires": 5,
+                        "Les Échanges Alvéolocapillaires": 6,
                         "Régulation de la Pression Artérielle": 15,
                         "Introduction à la Physiologie Respiratoire": 6
                     },
-                    "module_total": 146
+                    "module_total": 147
                 }
             ]
         },
