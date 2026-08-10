@@ -606,6 +606,64 @@
             ]
         },
         {
+            "unit": "UE1: Psychologie Médicale, Sémiologie Générale, Appareil Cardio-Vasculaire et Respiratoire",
+            "modules": [
+                {
+                    "module": "Biochimie",
+                    "courses": {
+                        "Biomarqueurs Cardiaques": 12,
+                        "Biochimie de l'Homme Sain": 10,
+                        "Etapes de l'Analyse Biochimique": 8,
+                        "Explorations Biochimiques du Stress Oxidatif": 8,
+                        "Explorations Biochimiques des Liquides de Ponction": 11,
+                        "Explorations Biochimiques du Métabolisme des Lipides et des Lipoprotéines Athérogenèse": 23
+                    },
+                    "module_total": 72
+                },
+                {
+                    "module": "Imagerie Médicale",
+                    "courses": {
+                        "Echographie": 27,
+                        "Tomodensitométrie": 3,
+                        "Radiographie Standard": 9,
+                        "Radiographie standard du thorax": 1,
+                        "Anomalies Radiologiques au cours d'une Pathologie Pleurale et Parenchymateuse": 2
+                    },
+                    "module_total": 42
+                },
+                {
+                    "module": "Psychologie Médicale",
+                    "courses": {
+                        "Psychologie de la Douleur": 2,
+                        "L'Annonce d'une Maladie Grave": 3,
+                        "Psychologie de la Prescription": 4,
+                        "Problèmes Particuliers de l'Entrevue": 2,
+                        "Aspects Communicationnels de la Rencontre avec le Malade et sa Famille et Examen Mental": 15
+                    },
+                    "module_total": 26
+                },
+                {
+                    "module": "Sémiologie",
+                    "courses": {
+                        "ECG": 13,
+                        "Péricardites": 8,
+                        "Douleur Thoracique": 5,
+                        "Syncope, Lipothymie": 11,
+                        "Sémiologie Pondérale": 7,
+                        "Sémiologie Vasculaire": 66,
+                        "Syndrome Coronaire Aigu": 11,
+                        "Le Raisonnement Clinique": 1,
+                        "Equilibre Hydro-Électrolytique": 19,
+                        "Rédiger une Observation Médicale": 1,
+                        "Les Notions de la Sémantique Médicale": 3,
+                        "L'Abord et l'Examen Clinique d'un Patient": 85,
+                        "Valvulopathie Mitrales, Valvulopathie Aortiques": 20
+                    },
+                    "module_total": 250
+                }
+            ]
+        },
+        {
             "unit": "UE3: Appareil Endocrinien, Reproducteur, et Urinaire",
             "modules": [
                 {
