@@ -1,775 +1,788 @@
 {
-    "1": [
-        {
-            "unit": "Anatomie",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "Muscles du Pied": 4,
-                        "Système Nerveux": 2,
-                        "Muscles de la Main": 5,
-                        "Muscles de la Jambe": 5,
-                        "Clavicule et Scapula": 8,
-                        "Articulation du Coude": 5,
-                        "Articulation du Genou": 10,
-                        "Articulations du Pied": 4,
-                        "Muscles de l'Avant Bras": 6,
-                        "Articulation de l'Epaule": 7,
-                        "Articulation de la Hanche": 7,
-                        "Articulation de la Cheville": 5,
-                        "Articulation Radio-carpienne": 6,
-                        "Innervation du Membre Pelvien": 9,
-                        "Généralités sur les Muscles": 6,
-                        "Muscles de l'Epaule et du Bras": 6,
-                        "Généralités sur les Vaisseaux": 6,
-                        "Ostéologie du Membre Inférieur": 18,
-                        "Innvervation du Membre Supérieur": 9,
-                        "Introduction Ostérologie Humaine": 3,
-                        "Lymphatiques du Membre Inférieur": 3,
-                        "Généralités sur les Articulations": 4,
-                        "Muscles de la Hanche et de la Cuisse": 10,
-                        "Vascularisation du Membre Inférieur": 9,
-                        "Généralités sur l'Anatomeie Humaine": 9,
-                        "Veines du Membre Thoracique Supérieur": 6,
-                        "Humérus, Radius, Ulna, les Os de la Main": 14,
-                        "Vaisseaux du Membre Thoracique Supérieur": 11
-                    },
-                    "module_total": 178
-                }
-            ]
-        },
-        {
-            "unit": "Biochimie",
-            "modules": [
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Enzymologie": 36,
-                        "Les Lipides": 38,
-                        "Les Glucides": 89,
-                        "Métabolisme": 63,
-                        "Acides Nucléiques": 4,
-                        "Les α-Amino-Acides et Protéines": 52
-                    },
-                    "module_total": 235
-                }
-            ]
-        },
-        {
-            "unit": "Biostatistique",
-            "modules": [
-                {
-                    "module": "Biostatistique",
-                    "courses": {
-                        "Test du χ²": 11,
-                        "Lois de Probabilité": 8,
-                        "Test F de Fisher Snedecor": 1,
-                        "Mise en Ordre des Données": 9,
-                        "Principes des Tests d'Hypothèses": 7,
-                        "Notions de Base en Biostatistiques": 7,
-                        "Statistiques Descriptives Univariés": 41,
-                        "Corrélation et Régression Logistique": 13,
-                        "Test Z de l'Ecart Réduit et Test T de Student": 9
-                    },
-                    "module_total": 100
-                }
-            ]
-        },
-        {
-            "unit": "Chimie",
-            "modules": [
-                {
-                    "module": "Chimie",
-                    "courses": {
-                        "Chimie Organique": 9,
-                        "Chimie de la Solution": 64,
-                        "Les Liaisons Chimiques": 18,
-                        "Structure de la Matière": 28,
-                        "La Thermodynamique Chimique": 25,
-                        "Isomérie et Stéréoisomérie": 6,
-                        "Classification Perdiodique des Eléments": 10
-                    },
-                    "module_total": 159
-                }
-            ]
-        },
-        {
-            "unit": "Cytologie",
-            "modules": [
-                {
-                    "module": "Cytologie",
-                    "courses": {
-                        "The Nucleus": 14,
-                        "The Ribosome": 5,
-                        "Cell Division": 8,
-                        "Golgi Apparatus": 4,
-                        "Plasma Membrane": 17,
-                        "The Cytoskeleton": 10,
-                        "Endoplasmic Reticulum": 5,
-                        "Introduction to Cytology": 1,
-                        "Membrane Bound Organelles": 29,
-                        "Plasma Membrane Differentiations": 9,
-                        "Eukaryotes, Prokaryotes and Viruses": 2
-                    },
-                    "module_total": 97
-                }
-            ]
-        },
-        {
-            "unit": "Embryologie",
-            "modules": [
-                {
-                    "module": "Embryologie",
-                    "courses": {
-                        "L'Ovulation": 2,
-                        "La Fecondation": 8,
-                        "La Neurulation": 2,
-                        "La Gamétogenèse": 14,
-                        "Grossesse Gémellaire": 5,
-                        "Appareil Génital Féminin": 8,
-                        "Appareil Génital Masculin": 10,
-                        "La 1er Semaine du Développement Embryonnaire": 15,
-                        "La 2ème Semaine du Développement Embryonnaire": 5,
-                        "La 3ème Semaine du Développement Embryonnaire": 8,
-                        "La 4ème Semaine du Développement Embryonnaire": 2
-                    },
-                    "module_total": 76
-                }
-            ]
-        },
-        {
-            "unit": "Histologie",
-            "modules": [
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "Le Tissu Osseux": 19,
-                        "Les Epithéliums": 11,
-                        "Le Tissu Musculaire": 10,
-                        "Le Tissu Musculaire Lisse": 4,
-                        "Le Tissu de Soutien (Conjonctif et Cartilagineux)": 12
-                    },
-                    "module_total": 56
-                }
-            ]
-        },
-        {
-            "unit": "Physiologie",
-            "modules": [
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Physiologie du Nerf": 7,
-                        "Transmission Synaptique": 15,
-                        "Communication Cellulaire": 12,
-                        "Introduction à la Nutrition": 8,
-                        "Apport Alimentaire Energétique": 13,
-                        "Le Système Nerveux Végétatif": 12,
-                        "Apport Alimentaire non-Energétique": 2,
-                        "Compartiments Liquidiens et Echanges": 13,
-                        "Physiologie de la Membrane Cellulaire": 13,
-                        "Physiologie du Muscle Strié Squelletique": 8,
-                        "Adaptation de la Nutrition à Certaines Situations": 9
-                    },
-                    "module_total": 109
-                }
-            ]
-        }
-    ],
-    "2": [
-        {
-            "unit": "Appareil Cardio-Respiratoire",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "Larynx": 16,
-                        "Paroi Thoracique": 11,
-                        "Système Veineux": 8,
-                        "Poumons & Plèvres": 12,
-                        "Système Artériel": 9,
-                        "Trachée & Bronches": 8,
-                        "Système Lymphatique": 5,
-                        "Diaphragme & N. Phréniques": 11,
-                        "Péricarde & Rapports du Cœur": 10,
-                        "Médiastin & Anatomie Topographique": 20,
-                        "Morphologie Interne & Externe du Cœur": 14,
-                        "Vascularisation & Innervation du Cœur": 12,
-                        "Généralités sur les Voies Respiratoires": 1
-                    },
-                    "module_total": 134
-                },
-                {
-                    "module": "Biophysique",
-                    "courses": {
-                        "Hémodynamique": 10,
-                        "Biophysique du Cœur": 7,
-                        "Notion de Rhéologie": 7,
-                        "Propriétés Mécanique des Fluides": 2,
-                        "Dynamique des Fluides Réels, Notion de viscosité, Loi de Poiseuille": 2,
-                        "Définition, Différence de Pression de Part et d'Autres d'une Sphère": 2,
-                        "Statique des Fluides, Notion de Pression et Densité Énergétique d'un Fluide": 3,
-                        "Tension Superficielle (phénomène de capillarité) et Applications Médicales": 2,
-                        "Dynamique des Fluides Parfaits, Équation de continuité, Théorème de Bernoulli": 3
-                    },
-                    "module_total": 38
-                },
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "Appareil Respiratoire": 35,
-                        "Appareil Cardio-Vasculaire": 41,
-                        "Organes Hématopoïétiques": 37
-                    },
-                    "module_total": 113
-                },
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Cycle Cardiaque": 9,
-                        "Débit Cardiaque": 10,
-                        "Physiologie du Sang": 21,
-                        "Circulation Coronaire": 9,
-                        "Mécanique Ventilatoire": 27,
-                        "Système à Basse Pression": 6,
-                        "Régulation de la Respiration": 10,
-                        "Électrophysiologie Cardiaque": 17,
-                        "Transport des Gaz dans le Sang": 11,
-                        "Les Échanges Alvéolocapillaires": 6,
-                        "Régulation de la Pression Artérielle": 15,
-                        "Introduction à la Physiologie Respiratoire": 6
-                    },
-                    "module_total": 147
-                }
-            ]
-        },
-        {
-            "unit": "Appareil Digestif",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "Côlon": 15,
-                        "Rectum": 15,
-                        "Estomac": 16,
-                        "Pharynx": 12,
-                        "Oesophage": 12,
-                        "Péritoine": 15,
-                        "Grêle et Mésentère": 11,
-                        "Rate et Système Porte": 8,
-                        "Bloc Duodéno-Pancréatique": 15,
-                        "Paroi Abdominale et Points Faibles": 15,
-                        "Cavité Buccale et Glandes Salivaires": 16,
-                        "Foie et Pédicule Hépatique et Ségmentation": 28
-                    },
-                    "module_total": 166
-                },
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Les Vitamines": 52,
-                        "Les Oligo-Elements": 34
-                    },
-                    "module_total": 84
-                },
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "Paroi Gastrique": 19,
-                        "Paroi Intestinale": 34,
-                        "Pancréas Exocrine": 8,
-                        "Foie et Voies Biliaires": 47,
-                        "Cavité Bucco-Pharyngée et l'Oesophage": 34
-                    },
-                    "module_total": 142
-                },
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Phase Gastrique": 28,
-                        "Phase Bucco-Oesophagique": 18,
-                        "Phase Bilio-Pancréatique": 34,
-                        "Phase Intestinale et Colique": 33
-                    },
-                    "module_total": 108
-                }
-            ]
-        },
-        {
-            "unit": "Appareil Urinaire",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "Reins": 24,
-                        "Vessie & Urètres": 24,
-                        "Voies Excrétrices": 19
-                    },
-                    "module_total": 67
-                },
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Equilibre Acide-Base": 141
-                    },
-                    "module_total": 141
-                },
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "Histologie de l'Appareil Urinaire": 75
-                    },
-                    "module_total": 75
-                },
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Fonctions Tubulaires": 77,
-                        "Filtration Glomérulaire": 22,
-                        "Continence Urinaire et Miction": 21,
-                        "Principes de Base de la Physiologie Rénale": 16
-                    },
-                    "module_total": 136
-                }
-            ]
-        },
-        {
-            "unit": "Génétique",
-            "modules": [
-                {
-                    "module": "Anomalies du Caryotype",
-                    "courses": {
-                        "Anomalies du Caryotype": 13
-                    },
-                    "module_total": 13
-                },
-                {
-                    "module": "Caryotype Normal",
-                    "courses": {
-                        "Caryotype Normal": 10
-                    },
-                    "module_total": 10
-                },
-                {
-                    "module": "Conseil Génétique",
-                    "courses": {
-                        "Conseil Génétique": 1
-                    },
-                    "module_total": 1
-                },
-                {
-                    "module": "Génétique Moléculaire",
-                    "courses": {
-                        "Transcription": 13,
-                        "Organisation des Génomes": 3,
-                        "Modifications Epigénétiques": 1,
-                        "Les Polymorphismes et Mutations": 7,
-                        "Structure des Acides Nucléiques": 6,
-                        "Les Systèmes de Réparation de l'ADN": 2,
-                        "Régulation de l'Expression des Gènes": 9,
-                        "Code Génétique et Traduction | Modifications Post Traductionnelles": 2,
-                        "Réplication de l'ADN Procaryote et Eucaryote (Nucléaire et Mitochondrial)": 6
-                    },
-                    "module_total": 49
-                },
-                {
-                    "module": "Hérédité non Conventionnelle (ou non Mendélienne)",
-                    "courses": {
-                        "Empreinte Parentale": 1,
-                        "L'Hérédité Maternelle": 2
-                    },
-                    "module_total": 3
-                },
-                {
-                    "module": "Les Outils de la Biologie Moléculaire",
-                    "courses": {
-                        "Hybridation Moléculaire, Sondes, Enzymes et Vecteurs, Extraction d'ADN, PCR, Séquençage de l'ADN": 5
-                    },
-                    "module_total": 5
-                },
-                {
-                    "module": "Maladies Chromosomiques",
-                    "courses": {
-                        "Maladies Chromosomiques": 5
-                    },
-                    "module_total": 5
-                },
-                {
-                    "module": "Modes de Transmission des Maladies Monogéniques",
-                    "courses": {
-                        "Rappel des Lois de Mendel": 34
-                    },
-                    "module_total": 34
-                }
-            ]
-        },
-        {
-            "unit": "Système Endocrinien",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "La Thyroïde": 11,
-                        "Le Périnée": 9,
-                        "La Glande Mammaire": 10,
-                        "La Glande Hypophyse": 13,
-                        "Les Glandes Surrénales": 10,
-                        "L'Appareil Génital Féminin": 17,
-                        "L'Appareil Génital Masculin": 16
-                    },
-                    "module_total": 79
-                },
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Les Catécholamines": 14,
-                        "Les Hormones Thyroïdiennes": 32,
-                        "Biochimie du Remodelage Osseux": 4,
-                        "Généralités sur les Hormones": 10,
-                        "Les Hormones Post-hypophysaires": 18,
-                        "Exploration Biochimique des Gonades": 6,
-                        "Exploration biochimique des Ovaires": 15,
-                        "Mécanismes d’Action des Hormones": 25,
-                        "Les Hormones Cortico-Surrénaliennes": 26,
-                        "Exploration Biochimique des Testicules": 18,
-                        "Les Hormones Hypothalamo-hypophysaires": 43,
-                        "Généralités sur les Hormones Stéroïdes": 8
-                    },
-                    "module_total": 193
-                },
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "La Glande Mammaire": 1,
-                        "Le Système Endocrinien": 40,
-                        "L'Appareil Génital Féminin": 8,
-                        "L'Appareil Génital Masculin": 33,
-                        "Le Complexe Thyro-parathyroïdien": 29,
-                        "Les Surrénales, Pancréas Endocrine": 28
-                    },
-                    "module_total": 128
-                },
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Glycorégulation": 12,
-                        "La Cortico-Surrénale": 11,
-                        "La Fonction Thyroïdienne": 16,
-                        "Métabolisme Phosphocalcique": 9,
-                        "La Fonction Gonadique Féminin": 9,
-                        "La Fonction Gonadique Masculin": 3,
-                        "Relations Hypothalamo-Hypophysaires": 15,
-                        "Complexe Hormone de Croissance-Somatomédines": 15,
-                        "Principes des Systèmes de Contrôle Hormonal": 7,
-                        "Complexe Insuline-Glucagon et Métabolisme des Macromolécules": 21,
-                        "Dysfonctionnement de l’axe Hypothalamo-Hypophyso-Endocrinien et Effecteurs": 16
-                    },
-                    "module_total": 121
-                }
-            ]
-        },
-        {
-            "unit": "Système Nerveux",
-            "modules": [
-                {
-                    "module": "Anatomie",
-                    "courses": {
-                        "Cervelet": 8,
-                        "Os du Crane": 10,
-                        "Le Diencéphale": 8,
-                        "Rachis Cervical": 7,
-                        "Cavités Nasales": 7,
-                        "Le Massif Facial": 11,
-                        "Les Nerfs Crâniens": 15,
-                        "Anatomie de l’œil": 10,
-                        "Appareil Manducateur": 12,
-                        "L'Oreille et le Nerf Auditif": 14,
-                        "Morphologie du Tronc Cérébral": 11,
-                        "Morphologie de la Moelle Epinière": 9,
-                        "Vascularisation Arterielle du Cerveau": 10,
-                        "Le Télencéphale, Hemisphères Cérébraux": 13,
-                        "Système Ventriculaire et Liquidien du Système Nerveux Central": 14
-                    },
-                    "module_total": 140
-                },
-                {
-                    "module": "Biophysique",
-                    "courses": {
-                        "Biophysique de la Vision": 20,
-                        "Biophysique de l'Audition": 54
-                    },
-                    "module_total": 74
-                },
-                {
-                    "module": "Histologie",
-                    "courses": {
-                        "Cervelet": 17,
-                        "Organes des Sens": 18,
-                        "Plexus Choroides": 3,
-                        "Ganglions Nerveux": 11,
-                        "Ecorce Cérébrale": 12,
-                        "La Moelle Epinière": 10,
-                        "Organe de la Vision": 14,
-                        "Organe de l'Audition": 6,
-                        "Organe de l'Olfaction": 11,
-                        "Appareil de l'Equilibration": 4,
-                        "Organe de la Gustation, Bourgeons du Gout": 8
-                    },
-                    "module_total": 103
-                },
-                {
-                    "module": "Physiologie",
-                    "courses": {
-                        "Cervelet": 10,
-                        "Somesthésie": 10,
-                        "Moelle Epinière": 12,
-                        "Tronc Cérébral": 13,
-                        "Racines Rachidiennes": 1,
-                        "Récepteurs Sensoriels": 12,
-                        "Système Veille-Sommeil": 11,
-                        "Cortex Cérébral Moteur": 6,
-                        "Electroencéphalographie": 4,
-                        "Physiologie de la Vision": 16,
-                        "Physiologie de l'Audition": 9,
-                        "Physiologie de la Douleur": 21,
-                        "Ganglions de la Base (Noyaux Gris Centraux)": 8
-                    },
-                    "module_total": 121
-                }
-            ]
-        }
-    ],
-    "3": [
-        {
-            "unit": "Parasitologie",
-            "modules": [
-                {
-                    "module": "Parasitologie",
-                    "courses": {
-                        "Mycoses": 5,
-                        "Candidoses": 13,
-                        "Les Amibes Libres": 4,
-                        "Amibes et Amibiase": 10,
-                        "Douves et Distomatoses": 7,
-                        "Filaires et Filarioses": 1,
-                        "Plasmodiums et Paludisme": 18,
-                        "Toxoplasme et Toxoplasmose": 40,
-                        "Aspergillus et Aspergilloses": 2,
-                        "Introduction à la Mycologie": 1,
-                        "Leishmanies et Leishmanioses": 9,
-                        "Cryptococcus et Cryptococcose": 4,
-                        "Dermatophytes et Dermatophyties": 4,
-                        "Malassezioses et Histoplasmoses": 1,
-                        "Schistosomes et Schistosomiases": 1,
-                        "Trypanosomes et Trypanosomiases": 8,
-                        "Introduction à la Parasitologie": 1,
-                        "Flagellés et Ciliés des Cavités": 8,
-                        "Nématodes et Nématodoses Intestinaux": 7,
-                        "Notions d'Entomologie Médicale et Gale": 12,
-                        "Cestodes Parasites de l'Homme à l'État Larvaire": 11,
-                        "Parasites Opportunistes du Tube Digestif: Isosporose": 1,
-                        "Parasites Opportunistes du Tube Digestif: Cyelosporose": 1,
-                        "Parasites Opportunistes du Tube Digestif: Sarcocystose": 1,
-                        "Parasites Opportunistes du Tube Digestif: Microsporidiose": 1,
-                        "Parasites Opportunistes du Tube Digestif: Cryptosporidiose": 1,
-                        "Généralités sur les Helminthes et Cestodes Parasites de l'Homme à l'État Adulte": 9
-                    },
-                    "module_total": 180
-                }
-            ]
-        },
-        {
-            "unit": "Pharmacologie",
-            "modules": [
-                {
-                    "module": "Pharmacologie",
-                    "courses": {
-                        "Les Antalgiques": 14,
-                        "Pharmacodynamie": 9,
-                        "Les Antibiotiques": 7,
-                        "Pharmacovigilance": 1,
-                        "Pharmacocinétique": 23,
-                        "Les Antituberculeux": 5,
-                        "Les Sympatholtiques": 6,
-                        "Les Sympathomimétiques": 5,
-                        "Le Système Nerveux Autonome": 3,
-                        "Développement des Médicaments": 2,
-                        "Anti-hypertenseurs Périphériques": 8,
-                        "Les Intéractions Médicamenteuses": 5,
-                        "Aspects Médico-légaux des Médicaments": 10,
-                        "Les Effets Indésirables des Médicaments": 9,
-                        "Médicaments du Système Nerveux Parasympathique": 18
-                    },
-                    "module_total": 125
-                }
-            ]
-        },
-        {
-            "unit": "UE1: Psychologie Médicale, Sémiologie Générale, Appareil Cardio-Vasculaire et Respiratoire",
-            "modules": [
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Biomarqueurs Cardiaques": 12,
-                        "Biochimie de l'Homme Sain": 10,
-                        "Etapes de l'Analyse Biochimique": 8,
-                        "Explorations Biochimiques du Stress Oxidatif": 8,
-                        "Explorations Biochimiques des Liquides de Ponction": 11,
-                        "Explorations Biochimiques du Métabolisme des Lipides et des Lipoprotéines Athérogenèse": 23
-                    },
-                    "module_total": 72
-                },
-                {
-                    "module": "Imagerie Médicale",
-                    "courses": {
-                        "Echographie": 27,
-                        "Tomodensitométrie": 3,
-                        "Radiographie Standard": 9,
-                        "Radiographie standard du thorax": 1,
-                        "Anomalies Radiologiques au cours d'une Pathologie Pleurale et Parenchymateuse": 2
-                    },
-                    "module_total": 42
-                },
-                {
-                    "module": "Psychologie Médicale",
-                    "courses": {
-                        "Psychologie de la Douleur": 2,
-                        "L'Annonce d'une Maladie Grave": 3,
-                        "Psychologie de la Prescription": 4,
-                        "Problèmes Particuliers de l'Entrevue": 2,
-                        "Aspects Communicationnels de la Rencontre avec le Malade et sa Famille et Examen Mental": 15
-                    },
-                    "module_total": 26
-                },
-                {
-                    "module": "Sémiologie",
-                    "courses": {
-                        "ECG": 13,
-                        "Péricardites": 8,
-                        "Douleur Thoracique": 5,
-                        "Syncope, Lipothymie": 11,
-                        "Sémiologie Pondérale": 7,
-                        "Sémiologie Vasculaire": 66,
-                        "Syndrome Coronaire Aigu": 11,
-                        "Le Raisonnement Clinique": 1,
-                        "Equilibre Hydro-Électrolytique": 19,
-                        "Rédiger une Observation Médicale": 1,
-                        "Les Notions de la Sémantique Médicale": 3,
-                        "L'Abord et l'Examen Clinique d'un Patient": 85,
-                        "Valvulopathie Mitrales, Valvulopathie Aortiques": 20
-                    },
-                    "module_total": 250
-                }
-            ]
-        },
-        {
-            "unit": "UE3: Appareil Endocrinien, Reproducteur, et Urinaire",
-            "modules": [
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Sémiologie Urinaire": 1,
-                        "Equilibre Hydrominéral": 6,
-                        "Exploration Glycorégulation": 6,
-                        "Métabolisme Phosphocalcique": 9,
-                        "La Régulation de la Glycémie": 4,
-                        "Sémiologie des Hypoglycémies": 2,
-                        "Acide Urique et Hyper-uricémie": 4,
-                        "Exploration de la Fonction Rénale": 13,
-                        "Biochimie des Antidiabétiques Oraux": 2,
-                        "Les Hyperglycémies, Le Diabète Sucré": 7,
-                        "Le Métabolisme Normal et Pathologique des Hexoses": 6,
-                        "Le Métabolisme Normal et Pathologique des Disaccharides": 1
-                    },
-                    "module_total": 54
-                },
-                {
-                    "module": "Physiopathologie",
-                    "courses": {
-                        "Dysphosphorémies": 11,
-                        "Acidocétose Diabétique": 12,
-                        "Insuffisance Rénale Aigue": 14,
-                        "Les Occlusions Intestinales Aigues": 4,
-                        "Physiopathologie des Dyscalcélmies": 20
-                    },
-                    "module_total": 61
-                },
-                {
-                    "module": "Radiologie",
-                    "courses": {
-                        "La Mammographie": 22,
-                        "Sémiologie Urinaire": 8,
-                        "Exploration Radiologique de la Glande Thyroïde": 8
-                    },
-                    "module_total": 38
-                },
-                {
-                    "module": "Sémiologie",
-                    "courses": {
-                        "Sémiologie Urinaire": 20,
-                        "Sémiologie des Seins": 15,
-                        "Sémiologie de la Thyroïde": 28,
-                        "Sémiologie des Hypoglycémies": 4,
-                        "Définition et Classification du Diabète": 7,
-                        "Sémiologie de l'Appareil Génital Féminin": 14,
-                        "Sémiologie de l'Appareil Génital Masculin": 22,
-                        "Glandes Surrénales, Insuffisance Surrénale": 32
-                    },
-                    "module_total": 141
-                }
-            ]
-        },
-        {
-            "unit": "UEI4: Appareil Digestif et Organes Hématopoïétiques",
-            "modules": [
-                {
-                    "module": "Biochimie",
-                    "courses": {
-                        "Explorations Biochimiques des fonctions hépatiques": 12,
-                        "Explorations Biochimiques des Protéines Plasmatiques": 3,
-                        "Explorations Biochimiques de la digestion et de l'absorption intestinale": 10,
-                        "Aspects Biochimiques de la Cancérogenèse - Marqueurs Tumoraux Sériques et Génétiques.": 3
-                    },
-                    "module_total": 28
-                },
-                {
-                    "module": "Imagerie Radiologie",
-                    "courses": {
-                        "ASP": 5,
-                        "TDM Abdominale": 2,
-                        "Echographie abdominale": 2
-                    },
-                    "module_total": 9
-                },
-                {
-                    "module": "Physiopathologie",
-                    "courses": {
-                        "Physiopathologie des Ictères": 2,
-                        "Physiopathologie des Dyskaliémies": 2,
-                        "Physiopathologie des Dysmagnésémies": 2,
-                        "Physiopathologie de l'Hypertension Portale": 2,
-                        "Physiopathologie des Hémorragies Digestives": 3,
-                        "Physiopathologie des Troubles de l'Hémostase": 8
-                    },
-                    "module_total": 19
-                },
-                {
-                    "module": "Sémiologie",
-                    "courses": {
-                        "Les Signes Physiques": 9,
-                        "Les Signes Fonctionnels": 12,
-                        "Sémiologie Hématologique": 12,
-                        "Etude Synthétique, Les Ascites": 5,
-                        "Etude Synthétique, Les Ictères": 7,
-                        "Sémiologie Lympho-Ganglionnaire": 7,
-                        "Etude Synthétique, Les Hépatomégalies": 3,
-                        "Etude Synthétique, Syndrome Hépatitique": 6,
-                        "Etude Synthétique, Les Urgences Abdominales": 3
-                    },
-                    "module_total": 64
-                }
-            ]
-        }
-    ]
+	"1": [
+		{
+			"unit": "Anatomie",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"Muscles du Pied": 4,
+						"Système Nerveux": 2,
+						"Muscles de la Main": 5,
+						"Muscles de la Jambe": 5,
+						"Clavicule et Scapula": 8,
+						"Articulation du Coude": 5,
+						"Articulation du Genou": 10,
+						"Articulations du Pied": 4,
+						"Muscles de l'Avant Bras": 6,
+						"Articulation de l'Epaule": 7,
+						"Articulation de la Hanche": 7,
+						"Articulation de la Cheville": 5,
+						"Articulation Radio-carpienne": 6,
+						"Innervation du Membre Pelvien": 9,
+						"Généralités sur les Muscles": 6,
+						"Muscles de l'Epaule et du Bras": 6,
+						"Généralités sur les Vaisseaux": 6,
+						"Ostéologie du Membre Inférieur": 18,
+						"Innvervation du Membre Supérieur": 9,
+						"Introduction Ostérologie Humaine": 3,
+						"Lymphatiques du Membre Inférieur": 3,
+						"Généralités sur les Articulations": 4,
+						"Muscles de la Hanche et de la Cuisse": 10,
+						"Vascularisation du Membre Inférieur": 9,
+						"Généralités sur l'Anatomeie Humaine": 9,
+						"Veines du Membre Thoracique Supérieur": 6,
+						"Humérus, Radius, Ulna, les Os de la Main": 14,
+						"Vaisseaux du Membre Thoracique Supérieur": 11
+					},
+					"module_total": 178
+				}
+			]
+		},
+		{
+			"unit": "Biochimie",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Enzymologie": 36,
+						"Les Lipides": 38,
+						"Les Glucides": 89,
+						"Métabolisme": 63,
+						"Acides Nucléiques": 4,
+						"Les α-Amino-Acides et Protéines": 52
+					},
+					"module_total": 235
+				}
+			]
+		},
+		{
+			"unit": "Biostatistique",
+			"modules": [
+				{
+					"module": "Biostatistique",
+					"courses": {
+						"Test du χ²": 11,
+						"Lois de Probabilité": 8,
+						"Test F de Fisher Snedecor": 1,
+						"Mise en Ordre des Données": 9,
+						"Principes des Tests d'Hypothèses": 7,
+						"Notions de Base en Biostatistiques": 7,
+						"Statistiques Descriptives Univariés": 41,
+						"Corrélation et Régression Logistique": 13,
+						"Test Z de l'Ecart Réduit et Test T de Student": 9
+					},
+					"module_total": 100
+				}
+			]
+		},
+		{
+			"unit": "Chimie",
+			"modules": [
+				{
+					"module": "Chimie",
+					"courses": {
+						"Chimie Organique": 9,
+						"Chimie de la Solution": 64,
+						"Les Liaisons Chimiques": 18,
+						"Structure de la Matière": 28,
+						"La Thermodynamique Chimique": 25,
+						"Isomérie et Stéréoisomérie": 6,
+						"Classification Perdiodique des Eléments": 10
+					},
+					"module_total": 159
+				}
+			]
+		},
+		{
+			"unit": "Cytologie",
+			"modules": [
+				{
+					"module": "Cytologie",
+					"courses": {
+						"The Nucleus": 14,
+						"The Ribosome": 5,
+						"Cell Division": 8,
+						"Golgi Apparatus": 4,
+						"Plasma Membrane": 17,
+						"The Cytoskeleton": 10,
+						"Endoplasmic Reticulum": 5,
+						"Introduction to Cytology": 1,
+						"Membrane Bound Organelles": 29,
+						"Plasma Membrane Differentiations": 9,
+						"Eukaryotes, Prokaryotes and Viruses": 2
+					},
+					"module_total": 97
+				}
+			]
+		},
+		{
+			"unit": "Embryologie",
+			"modules": [
+				{
+					"module": "Embryologie",
+					"courses": {
+						"L'Ovulation": 2,
+						"La Fecondation": 8,
+						"La Neurulation": 2,
+						"La Gamétogenèse": 14,
+						"Grossesse Gémellaire": 5,
+						"Appareil Génital Féminin": 8,
+						"Appareil Génital Masculin": 10,
+						"La 1er Semaine du Développement Embryonnaire": 15,
+						"La 2ème Semaine du Développement Embryonnaire": 5,
+						"La 3ème Semaine du Développement Embryonnaire": 8,
+						"La 4ème Semaine du Développement Embryonnaire": 2
+					},
+					"module_total": 76
+				}
+			]
+		},
+		{
+			"unit": "Histologie",
+			"modules": [
+				{
+					"module": "Histologie",
+					"courses": {
+						"Le Tissu Osseux": 19,
+						"Les Epithéliums": 11,
+						"Le Tissu Musculaire": 10,
+						"Le Tissu Musculaire Lisse": 4,
+						"Le Tissu de Soutien (Conjonctif et Cartilagineux)": 12
+					},
+					"module_total": 56
+				}
+			]
+		},
+		{
+			"unit": "Physiologie",
+			"modules": [
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Physiologie du Nerf": 7,
+						"Transmission Synaptique": 15,
+						"Communication Cellulaire": 12,
+						"Introduction à la Nutrition": 8,
+						"Apport Alimentaire Energétique": 13,
+						"Le Système Nerveux Végétatif": 12,
+						"Apport Alimentaire non-Energétique": 2,
+						"Compartiments Liquidiens et Echanges": 13,
+						"Physiologie de la Membrane Cellulaire": 13,
+						"Physiologie du Muscle Strié Squelletique": 8,
+						"Adaptation de la Nutrition à Certaines Situations": 9
+					},
+					"module_total": 109
+				}
+			]
+		}
+	],
+	"2": [
+		{
+			"unit": "Appareil Cardio-Respiratoire",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"Larynx": 16,
+						"Paroi Thoracique": 11,
+						"Système Veineux": 8,
+						"Poumons & Plèvres": 12,
+						"Système Artériel": 9,
+						"Trachée & Bronches": 8,
+						"Système Lymphatique": 5,
+						"Diaphragme & N. Phréniques": 11,
+						"Péricarde & Rapports du Cœur": 10,
+						"Médiastin & Anatomie Topographique": 20,
+						"Morphologie Interne & Externe du Cœur": 14,
+						"Vascularisation & Innervation du Cœur": 12,
+						"Généralités sur les Voies Respiratoires": 1
+					},
+					"module_total": 134
+				},
+				{
+					"module": "Biophysique",
+					"courses": {
+						"Hémodynamique": 10,
+						"Biophysique du Cœur": 7,
+						"Notion de Rhéologie": 7,
+						"Propriétés Mécanique des Fluides": 2,
+						"Dynamique des Fluides Réels, Notion de viscosité, Loi de Poiseuille": 2,
+						"Définition, Différence de Pression de Part et d'Autres d'une Sphère": 2,
+						"Statique des Fluides, Notion de Pression et Densité Énergétique d'un Fluide": 3,
+						"Tension Superficielle (phénomène de capillarité) et Applications Médicales": 2,
+						"Dynamique des Fluides Parfaits, Équation de continuité, Théorème de Bernoulli": 3
+					},
+					"module_total": 38
+				},
+				{
+					"module": "Histologie",
+					"courses": {
+						"Appareil Respiratoire": 35,
+						"Appareil Cardio-Vasculaire": 41,
+						"Organes Hématopoïétiques": 37
+					},
+					"module_total": 113
+				},
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Cycle Cardiaque": 9,
+						"Débit Cardiaque": 10,
+						"Physiologie du Sang": 21,
+						"Circulation Coronaire": 9,
+						"Mécanique Ventilatoire": 27,
+						"Système à Basse Pression": 6,
+						"Régulation de la Respiration": 10,
+						"Électrophysiologie Cardiaque": 17,
+						"Transport des Gaz dans le Sang": 11,
+						"Les Échanges Alvéolocapillaires": 6,
+						"Régulation de la Pression Artérielle": 15,
+						"Introduction à la Physiologie Respiratoire": 6
+					},
+					"module_total": 147
+				}
+			]
+		},
+		{
+			"unit": "Appareil Digestif",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"Côlon": 15,
+						"Rectum": 15,
+						"Estomac": 16,
+						"Pharynx": 12,
+						"Oesophage": 12,
+						"Péritoine": 15,
+						"Grêle et Mésentère": 11,
+						"Rate et Système Porte": 8,
+						"Bloc Duodéno-Pancréatique": 15,
+						"Paroi Abdominale et Points Faibles": 15,
+						"Cavité Buccale et Glandes Salivaires": 16,
+						"Foie et Pédicule Hépatique et Ségmentation": 28
+					},
+					"module_total": 166
+				},
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Les Vitamines": 52,
+						"Les Oligo-Elements": 34
+					},
+					"module_total": 84
+				},
+				{
+					"module": "Histologie",
+					"courses": {
+						"Paroi Gastrique": 19,
+						"Paroi Intestinale": 34,
+						"Pancréas Exocrine": 8,
+						"Foie et Voies Biliaires": 47,
+						"Cavité Bucco-Pharyngée et l'Oesophage": 34
+					},
+					"module_total": 142
+				},
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Phase Gastrique": 28,
+						"Phase Bucco-Oesophagique": 18,
+						"Phase Bilio-Pancréatique": 34,
+						"Phase Intestinale et Colique": 33
+					},
+					"module_total": 108
+				}
+			]
+		},
+		{
+			"unit": "Appareil Urinaire",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"Reins": 24,
+						"Vessie & Urètres": 24,
+						"Voies Excrétrices": 19
+					},
+					"module_total": 67
+				},
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Equilibre Acide-Base": 141
+					},
+					"module_total": 141
+				},
+				{
+					"module": "Histologie",
+					"courses": {
+						"Histologie de l'Appareil Urinaire": 75
+					},
+					"module_total": 75
+				},
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Fonctions Tubulaires": 77,
+						"Filtration Glomérulaire": 22,
+						"Continence Urinaire et Miction": 21,
+						"Principes de Base de la Physiologie Rénale": 16
+					},
+					"module_total": 136
+				}
+			]
+		},
+		{
+			"unit": "Génétique",
+			"modules": [
+				{
+					"module": "Anomalies du Caryotype",
+					"courses": {
+						"Anomalies du Caryotype": 13
+					},
+					"module_total": 13
+				},
+				{
+					"module": "Caryotype Normal",
+					"courses": {
+						"Caryotype Normal": 10
+					},
+					"module_total": 10
+				},
+				{
+					"module": "Conseil Génétique",
+					"courses": {
+						"Conseil Génétique": 1
+					},
+					"module_total": 1
+				},
+				{
+					"module": "Génétique Moléculaire",
+					"courses": {
+						"Transcription": 13,
+						"Organisation des Génomes": 3,
+						"Modifications Epigénétiques": 1,
+						"Les Polymorphismes et Mutations": 7,
+						"Structure des Acides Nucléiques": 6,
+						"Les Systèmes de Réparation de l'ADN": 2,
+						"Régulation de l'Expression des Gènes": 9,
+						"Code Génétique et Traduction | Modifications Post Traductionnelles": 2,
+						"Réplication de l'ADN Procaryote et Eucaryote (Nucléaire et Mitochondrial)": 6
+					},
+					"module_total": 49
+				},
+				{
+					"module": "Hérédité non Conventionnelle (ou non Mendélienne)",
+					"courses": {
+						"Empreinte Parentale": 1,
+						"L'Hérédité Maternelle": 2
+					},
+					"module_total": 3
+				},
+				{
+					"module": "Les Outils de la Biologie Moléculaire",
+					"courses": {
+						"Hybridation Moléculaire, Sondes, Enzymes et Vecteurs, Extraction d'ADN, PCR, Séquençage de l'ADN": 5
+					},
+					"module_total": 5
+				},
+				{
+					"module": "Maladies Chromosomiques",
+					"courses": {
+						"Maladies Chromosomiques": 5
+					},
+					"module_total": 5
+				},
+				{
+					"module": "Modes de Transmission des Maladies Monogéniques",
+					"courses": {
+						"Rappel des Lois de Mendel": 34
+					},
+					"module_total": 34
+				}
+			]
+		},
+		{
+			"unit": "Système Endocrinien",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"La Thyroïde": 11,
+						"Le Périnée": 9,
+						"La Glande Mammaire": 10,
+						"La Glande Hypophyse": 13,
+						"Les Glandes Surrénales": 10,
+						"L'Appareil Génital Féminin": 17,
+						"L'Appareil Génital Masculin": 16
+					},
+					"module_total": 79
+				},
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Les Catécholamines": 14,
+						"Les Hormones Thyroïdiennes": 32,
+						"Biochimie du Remodelage Osseux": 4,
+						"Généralités sur les Hormones": 10,
+						"Les Hormones Post-hypophysaires": 18,
+						"Exploration Biochimique des Gonades": 6,
+						"Exploration biochimique des Ovaires": 15,
+						"Mécanismes d’Action des Hormones": 25,
+						"Les Hormones Cortico-Surrénaliennes": 26,
+						"Exploration Biochimique des Testicules": 18,
+						"Les Hormones Hypothalamo-hypophysaires": 43,
+						"Généralités sur les Hormones Stéroïdes": 8
+					},
+					"module_total": 193
+				},
+				{
+					"module": "Histologie",
+					"courses": {
+						"La Glande Mammaire": 1,
+						"Le Système Endocrinien": 40,
+						"L'Appareil Génital Féminin": 8,
+						"L'Appareil Génital Masculin": 33,
+						"Le Complexe Thyro-parathyroïdien": 29,
+						"Les Surrénales, Pancréas Endocrine": 28
+					},
+					"module_total": 128
+				},
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Glycorégulation": 12,
+						"La Cortico-Surrénale": 11,
+						"La Fonction Thyroïdienne": 16,
+						"Métabolisme Phosphocalcique": 9,
+						"La Fonction Gonadique Féminin": 9,
+						"La Fonction Gonadique Masculin": 3,
+						"Relations Hypothalamo-Hypophysaires": 15,
+						"Complexe Hormone de Croissance-Somatomédines": 15,
+						"Principes des Systèmes de Contrôle Hormonal": 7,
+						"Complexe Insuline-Glucagon et Métabolisme des Macromolécules": 21,
+						"Dysfonctionnement de l’axe Hypothalamo-Hypophyso-Endocrinien et Effecteurs": 16
+					},
+					"module_total": 121
+				}
+			]
+		},
+		{
+			"unit": "Système Nerveux",
+			"modules": [
+				{
+					"module": "Anatomie",
+					"courses": {
+						"Cervelet": 8,
+						"Os du Crane": 10,
+						"Le Diencéphale": 8,
+						"Rachis Cervical": 7,
+						"Cavités Nasales": 7,
+						"Le Massif Facial": 11,
+						"Les Nerfs Crâniens": 15,
+						"Anatomie de l’œil": 10,
+						"Appareil Manducateur": 12,
+						"L'Oreille et le Nerf Auditif": 14,
+						"Morphologie du Tronc Cérébral": 11,
+						"Morphologie de la Moelle Epinière": 9,
+						"Vascularisation Arterielle du Cerveau": 10,
+						"Le Télencéphale, Hemisphères Cérébraux": 13,
+						"Système Ventriculaire et Liquidien du Système Nerveux Central": 14
+					},
+					"module_total": 140
+				},
+				{
+					"module": "Biophysique",
+					"courses": {
+						"Biophysique de la Vision": 20,
+						"Biophysique de l'Audition": 54
+					},
+					"module_total": 74
+				},
+				{
+					"module": "Histologie",
+					"courses": {
+						"Cervelet": 17,
+						"Organes des Sens": 18,
+						"Plexus Choroides": 3,
+						"Ganglions Nerveux": 11,
+						"Ecorce Cérébrale": 12,
+						"La Moelle Epinière": 10,
+						"Organe de la Vision": 14,
+						"Organe de l'Audition": 6,
+						"Organe de l'Olfaction": 11,
+						"Appareil de l'Equilibration": 4,
+						"Organe de la Gustation, Bourgeons du Gout": 8
+					},
+					"module_total": 103
+				},
+				{
+					"module": "Physiologie",
+					"courses": {
+						"Cervelet": 10,
+						"Somesthésie": 10,
+						"Moelle Epinière": 12,
+						"Tronc Cérébral": 13,
+						"Racines Rachidiennes": 1,
+						"Récepteurs Sensoriels": 12,
+						"Système Veille-Sommeil": 11,
+						"Cortex Cérébral Moteur": 6,
+						"Electroencéphalographie": 4,
+						"Physiologie de la Vision": 16,
+						"Physiologie de l'Audition": 9,
+						"Physiologie de la Douleur": 21,
+						"Ganglions de la Base (Noyaux Gris Centraux)": 8
+					},
+					"module_total": 121
+				}
+			]
+		}
+	],
+	"3": [
+		{
+			"unit": "Parasitologie",
+			"modules": [
+				{
+					"module": "Parasitologie",
+					"courses": {
+						"Mycoses": 5,
+						"Candidoses": 13,
+						"Les Amibes Libres": 4,
+						"Amibes et Amibiase": 10,
+						"Douves et Distomatoses": 7,
+						"Filaires et Filarioses": 1,
+						"Plasmodiums et Paludisme": 18,
+						"Toxoplasme et Toxoplasmose": 40,
+						"Aspergillus et Aspergilloses": 2,
+						"Introduction à la Mycologie": 1,
+						"Leishmanies et Leishmanioses": 9,
+						"Cryptococcus et Cryptococcose": 4,
+						"Dermatophytes et Dermatophyties": 4,
+						"Malassezioses et Histoplasmoses": 1,
+						"Schistosomes et Schistosomiases": 1,
+						"Trypanosomes et Trypanosomiases": 8,
+						"Introduction à la Parasitologie": 1,
+						"Flagellés et Ciliés des Cavités": 8,
+						"Nématodes et Nématodoses Intestinaux": 7,
+						"Notions d'Entomologie Médicale et Gale": 12,
+						"Cestodes Parasites de l'Homme à l'État Larvaire": 11,
+						"Parasites Opportunistes du Tube Digestif: Isosporose": 1,
+						"Parasites Opportunistes du Tube Digestif: Cyelosporose": 1,
+						"Parasites Opportunistes du Tube Digestif: Sarcocystose": 1,
+						"Parasites Opportunistes du Tube Digestif: Microsporidiose": 1,
+						"Parasites Opportunistes du Tube Digestif: Cryptosporidiose": 1,
+						"Généralités sur les Helminthes et Cestodes Parasites de l'Homme à l'État Adulte": 9
+					},
+					"module_total": 180
+				}
+			]
+		},
+		{
+			"unit": "Pharmacologie",
+			"modules": [
+				{
+					"module": "Pharmacologie",
+					"courses": {
+						"Les Antalgiques": 14,
+						"Pharmacodynamie": 9,
+						"Les Antibiotiques": 7,
+						"Pharmacovigilance": 1,
+						"Pharmacocinétique": 23,
+						"Les Antituberculeux": 5,
+						"Les Sympatholtiques": 6,
+						"Les Sympathomimétiques": 5,
+						"Le Système Nerveux Autonome": 3,
+						"Développement des Médicaments": 2,
+						"Anti-hypertenseurs Périphériques": 8,
+						"Les Intéractions Médicamenteuses": 5,
+						"Aspects Médico-légaux des Médicaments": 10,
+						"Les Effets Indésirables des Médicaments": 9,
+						"Médicaments du Système Nerveux Parasympathique": 18
+					},
+					"module_total": 125
+				}
+			]
+		},
+		{
+			"unit": "UE1: Psychologie Médicale, Sémiologie Générale, Appareil Cardio-Vasculaire et Respiratoire",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Biomarqueurs Cardiaques": 11,
+						"Biochimie de l'Homme Sain": 6,
+						"Etapes de l'Analyse Biochimique": 9,
+						"Explorations Biochimiques du Stress Oxidatif": 8,
+						"Explorations Biochimiques des Liquides de Ponction": 11,
+						"Explorations Biochimiques du Métabolisme des Lipides et des Lipoprotéines Athérogenèse": 25
+					},
+					"module_total": 70
+				},
+				{
+					"module": "Imagerie Médicale",
+					"courses": {
+						"Echographie": 24,
+						"Tomodensitométrie": 3,
+						"Radiographie Standard": 9,
+						"Anomalies Radiologiques au cours d'une Pathologie Pleurale et Parenchymateuse": 2
+					},
+					"module_total": 38
+				},
+				{
+					"module": "Physiopathologie",
+					"courses": {
+						"Physiopathologie de l'HTA": 24,
+						"Physiopathologie des Œdèmes Pulmonaires": 11,
+						"Physiopathologie Insuffisance respiratoire": 5,
+						"Physiopathologie de l'Etat de Choc Septique": 4,
+						"Physiopathologie de troubles de l'Hématose": 3,
+						"Physiopathologie de l'Etat de Choc Volémique": 4,
+						"Physiopathologie de la Maladie Thromboembolique": 3,
+						"Physiopathologie de l'Etat de Choc Anaphylactique": 9,
+						"Physiopathologie de l'Etat de Choc Cardiogénique": 7,
+						"Physiopathologie de l'Insuffisance Cardiaque Aigue": 17
+					},
+					"module_total": 87
+				},
+				{
+					"module": "Psychologie Médicale",
+					"courses": {
+						"Psychologie de la Douleur": 2,
+						"L'Annonce d'une Maladie Grave": 3,
+						"Psychologie de la Prescription": 4,
+						"Fonctionnement de la Personnalité": 1,
+						"Aspects Communicationnels de la Rencontre avec le Malade et sa Famille et Examen Mental": 18
+					},
+					"module_total": 28
+				},
+				{
+					"module": "Sémiologie",
+					"courses": {
+						"ECG": 11,
+						"Péricardites": 8,
+						"Douleur Thoracique": 5,
+						"Sémiologie Pondérale": 10,
+						"Sémiologie Vasculaire": 27,
+						"Syndrome Coronaire Aigu": 13,
+						"Explorations Pleuropulmonaires": 11,
+						"Equilibre Hydro-Électrolytique": 19,
+						"Les Signes Physiques de l'Appareil Respiratoire": 17,
+						"Valvulopathie Mitrales, Valvulopathie Aortiques": 27,
+						"Les Signes Fonctionnels de l'Appareil Respiratoire": 19
+					},
+					"module_total": 167
+				}
+			]
+		},
+		{
+			"unit": "UE3: Appareil Endocrinien, Reproducteur, et Urinaire",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Sémiologie Urinaire": 1,
+						"Equilibre Hydrominéral": 6,
+						"Exploration Glycorégulation": 6,
+						"Métabolisme Phosphocalcique": 9,
+						"La Régulation de la Glycémie": 4,
+						"Sémiologie des Hypoglycémies": 2,
+						"Acide Urique et Hyper-uricémie": 4,
+						"Exploration de la Fonction Rénale": 13,
+						"Biochimie des Antidiabétiques Oraux": 2,
+						"Les Hyperglycémies, Le Diabète Sucré": 7,
+						"Le Métabolisme Normal et Pathologique des Hexoses": 6,
+						"Le Métabolisme Normal et Pathologique des Disaccharides": 1
+					},
+					"module_total": 54
+				},
+				{
+					"module": "Physiopathologie",
+					"courses": {
+						"Dysphosphorémies": 11,
+						"Acidocétose Diabétique": 12,
+						"Insuffisance Rénale Aigue": 14,
+						"Les Occlusions Intestinales Aigues": 4,
+						"Physiopathologie des Dyscalcélmies": 20
+					},
+					"module_total": 61
+				},
+				{
+					"module": "Radiologie",
+					"courses": {
+						"La Mammographie": 22,
+						"Sémiologie Urinaire": 8,
+						"Exploration Radiologique de la Glande Thyroïde": 8
+					},
+					"module_total": 38
+				},
+				{
+					"module": "Sémiologie",
+					"courses": {
+						"Sémiologie Urinaire": 20,
+						"Sémiologie des Seins": 15,
+						"Sémiologie de la Thyroïde": 28,
+						"Sémiologie des Hypoglycémies": 4,
+						"Définition et Classification du Diabète": 7,
+						"Sémiologie de l'Appareil Génital Féminin": 14,
+						"Sémiologie de l'Appareil Génital Masculin": 22,
+						"Glandes Surrénales, Insuffisance Surrénale": 32
+					},
+					"module_total": 141
+				}
+			]
+		},
+		{
+			"unit": "UEI4: Appareil Digestif et Organes Hématopoïétiques",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Explorations Biochimiques des fonctions hépatiques": 12,
+						"Explorations Biochimiques des Protéines Plasmatiques": 3,
+						"Explorations Biochimiques de la digestion et de l'absorption intestinale": 10,
+						"Aspects Biochimiques de la Cancérogenèse - Marqueurs Tumoraux Sériques et Génétiques.": 3
+					},
+					"module_total": 28
+				},
+				{
+					"module": "Imagerie Radiologie",
+					"courses": {
+						"ASP": 5,
+						"TDM Abdominale": 2,
+						"Echographie abdominale": 2
+					},
+					"module_total": 9
+				},
+				{
+					"module": "Physiopathologie",
+					"courses": {
+						"Physiopathologie des Ictères": 2,
+						"Physiopathologie des Dyskaliémies": 2,
+						"Physiopathologie des Dysmagnésémies": 2,
+						"Physiopathologie de l'Hypertension Portale": 2,
+						"Physiopathologie des Hémorragies Digestives": 3,
+						"Physiopathologie des Troubles de l'Hémostase": 8
+					},
+					"module_total": 19
+				},
+				{
+					"module": "Sémiologie",
+					"courses": {
+						"Les Signes Physiques": 9,
+						"Les Signes Fonctionnels": 12,
+						"Sémiologie Hématologique": 12,
+						"Etude Synthétique, Les Ascites": 5,
+						"Etude Synthétique, Les Ictères": 7,
+						"Sémiologie Lympho-Ganglionnaire": 7,
+						"Etude Synthétique, Les Hépatomégalies": 3,
+						"Etude Synthétique, Syndrome Hépatitique": 6,
+						"Etude Synthétique, Les Urgences Abdominales": 3
+					},
+					"module_total": 64
+				}
+			]
+		}
+	]
 }
