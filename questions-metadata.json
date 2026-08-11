@@ -734,6 +734,61 @@
 			]
 		},
 		{
+			"unit": "UEI2: Appareil Neurologique, Locomoteur et Cutané",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"Exploration Biochimique du LCR": 21,
+						"Enzymes Sériques et Tissulaires": 27,
+						"Enzymes Musculaires, Autres Marqueurs": 6
+					},
+					"module_total": 54
+				},
+				{
+					"module": "Imagerie Médicale",
+					"courses": {
+						"Autres Explorations, EMG": 3,
+						"Tomodensitométrie et IRM Cérébrale": 23,
+						"Explorations Morphologiques de l'Appareil Locomoteur (Radiographie des Membres, du Rachis, Tomodensitométrie)": 12
+					},
+					"module_total": 38
+				},
+				{
+					"module": "Physiopathologie",
+					"courses": {
+						"Physiopathologie de la Douleur": 19,
+						"Physiopathologie des Œdèmes Périphériques": 7,
+						"Physiopathologie de l'Hypertension Intracrânienne": 22,
+						"Physiopathologie des Déséquilibres Acido-Basiques": 23
+					},
+					"module_total": 71
+				},
+				{
+					"module": "Sémiologie",
+					"courses": {
+						"Épilepsie": 7,
+						"Unité Motrice": 12,
+						"Nerfs Crâniens": 23,
+						"Examen des Membres": 9,
+						"Examen Neurologique": 25,
+						"Syndrome Démentiel": 3,
+						"Sémiologie Cutanée": 36,
+						"Syndromes Vasculaires": 4,
+						"Algies Crânio-Faciales": 19,
+						"Syndromes Topographiques": 16,
+						"Troubles de la Sensibilité": 17,
+						"Sémiologie du Syndrome Méningé": 5,
+						"Examen Normal et Pathologique du Rachis": 21,
+						"Signes Fonctionnels de l'Appareil Locomoteur": 6,
+						"Troubles de la Coordination et de l'Équilibre": 16,
+						"Troubles de la Motricité (Syndrome Pyramidal et Extra-Pyramidal)": 18
+					},
+					"module_total": 237
+				}
+			]
+		},
+		{
 			"unit": "UEI4: Appareil Digestif et Organes Hématopoïétiques",
 			"modules": [
 				{
