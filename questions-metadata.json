@@ -677,63 +677,6 @@
 			]
 		},
 		{
-			"unit": "UE3: Appareil Endocrinien, Reproducteur, et Urinaire",
-			"modules": [
-				{
-					"module": "Biochimie",
-					"courses": {
-						"Sémiologie Urinaire": 1,
-						"Equilibre Hydrominéral": 6,
-						"Exploration Glycorégulation": 6,
-						"Métabolisme Phosphocalcique": 9,
-						"La Régulation de la Glycémie": 4,
-						"Sémiologie des Hypoglycémies": 2,
-						"Acide Urique et Hyper-uricémie": 4,
-						"Exploration de la Fonction Rénale": 13,
-						"Biochimie des Antidiabétiques Oraux": 2,
-						"Les Hyperglycémies, Le Diabète Sucré": 7,
-						"Le Métabolisme Normal et Pathologique des Hexoses": 6,
-						"Le Métabolisme Normal et Pathologique des Disaccharides": 1
-					},
-					"module_total": 54
-				},
-				{
-					"module": "Physiopathologie",
-					"courses": {
-						"Dysphosphorémies": 11,
-						"Acidocétose Diabétique": 12,
-						"Insuffisance Rénale Aigue": 14,
-						"Les Occlusions Intestinales Aigues": 4,
-						"Physiopathologie des Dyscalcélmies": 20
-					},
-					"module_total": 61
-				},
-				{
-					"module": "Radiologie",
-					"courses": {
-						"La Mammographie": 22,
-						"Sémiologie Urinaire": 8,
-						"Exploration Radiologique de la Glande Thyroïde": 8
-					},
-					"module_total": 38
-				},
-				{
-					"module": "Sémiologie",
-					"courses": {
-						"Sémiologie Urinaire": 20,
-						"Sémiologie des Seins": 15,
-						"Sémiologie de la Thyroïde": 28,
-						"Sémiologie des Hypoglycémies": 4,
-						"Définition et Classification du Diabète": 7,
-						"Sémiologie de l'Appareil Génital Féminin": 14,
-						"Sémiologie de l'Appareil Génital Masculin": 22,
-						"Glandes Surrénales, Insuffisance Surrénale": 32
-					},
-					"module_total": 141
-				}
-			]
-		},
-		{
 			"unit": "UEI2: Appareil Neurologique, Locomoteur et Cutané",
 			"modules": [
 				{
@@ -785,6 +728,56 @@
 						"Troubles de la Motricité (Syndrome Pyramidal et Extra-Pyramidal)": 18
 					},
 					"module_total": 237
+				}
+			]
+		},
+		{
+			"unit": "UEI3: Appareil Endocrinien, Appareil de Reproduction et Appareil Urinaire",
+			"modules": [
+				{
+					"module": "Biochimie",
+					"courses": {
+						"ECB des Urines": 3,
+						"Biochimie des Fonctions Rénales": 14,
+						"Biochimie du Métabolisme des Glucides": 18,
+						"Biochimie des Anomalies Hydro-Electrolytiques": 11,
+						"Biochimie des Anomalies du Métabolisme de l'Acide Urique": 9,
+						"Biochimie du Métabolisme Phosphocalcique, Magnésium et du Remodelage Osseux": 19
+					},
+					"module_total": 74
+				},
+				{
+					"module": "Imagerie Médicale",
+					"courses": {
+						"Mammographie": 27,
+						"Echographie Thyroïdienne": 15,
+						"Radiologie de l'Appareil Urinaire": 8
+					},
+					"module_total": 50
+				},
+				{
+					"module": "Physiopathologie",
+					"courses": {
+						"Physiopathologie des Dyscalcémies": 10,
+						"Physiopathologie des Dysphosphorémies": 9,
+						"Physiopathologie de l'Acidose Diabétique": 23,
+						"Physiopathologie de l'Insuffisance Rénale Aigue": 12
+					},
+					"module_total": 54
+				},
+				{
+					"module": "Sémiologie",
+					"courses": {
+						"Sémiologie des Seins": 17,
+						"Sémiologie de la Thyroïde": 27,
+						"Sémiologie des Hypoglycémies": 6,
+						"Sémiologie de l'Appareil Urinaire": 22,
+						"Définition et Classification du Diabète": 19,
+						"Sémiologie de l'Appareil Génital Féminin": 18,
+						"Sémiologie de l'Appareil Génital Masculin": 24,
+						"Sémiologie du Métabolisme Phospho-Calcique, Parathyroïde et Glande Surrénale": 29
+					},
+					"module_total": 162
 				}
 			]
 		},
